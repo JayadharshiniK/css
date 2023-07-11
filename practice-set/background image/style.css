@@ -1,0 +1,13 @@
+div{
+    height: 200px;
+    width: 200px;
+    color: cornsilk;
+    text-align: center;
+    font-weight: bold;
+    background-color: coral;
+    background-image: url("drink.jpg");
+    background-size: cover;
+    position: fixed;
+    right: 10px;
+    top: 100px;
+}
